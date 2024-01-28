@@ -1,2 +1,0 @@
-# KYOMI
-ALL ABOUT AI
